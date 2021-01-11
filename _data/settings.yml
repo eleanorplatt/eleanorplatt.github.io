@@ -1,0 +1,30 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'Timeline', folder: 'pages', file: 'timeline.html'}
+- {name: 'Blog', folder: 'pages', file: 'blog.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'envelope', link: 'mailto:eleanorjplatt@gmail.com'}
+- {icon: 'github', link: 'https://www.github.com/eleanorplatt'}
+- {icon: 'twitter', link: 'https://twitter.com/eleanor__platt'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/eleanorplatt/'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Next'
+  previous_page: 'Previous'
+
+sharing_button_prompt: ''
+
+related_posts: ''
+
+post_date_prefix: 'Written on'
