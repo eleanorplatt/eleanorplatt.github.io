@@ -1,0 +1,25 @@
+---
+title: 'Product Forge Digital Health Hackathon 2020'
+date: 2020-02-29
+permalink: /posts/29/02/2020
+tags: [hackathon,digital health,product forge]
+image: unalome_team.jpeg
+categories: blog
+---
+
+Over a snowy four days at the end of February in Edinburgh, I was fortunate enough to take part in Europe’s largest healthcare hackathon: [Digital Health Product Forge](https://productforge.io/). The event brought together almost two hundred participants from around Scotland and beyond, each with different skillsets across medicine, software development, computer science and design. 
+
+<br/><img src='/assets/img/unalome.jpg' height="90" width="60">
+
+## Team Unalome 
+On Thursday, the first night of the event, we chose one of five tracks that we wanted to focus on for the remainder of the event: Emergency and Unscheduled Care, Healthcare for the Homeless, Social Care, Sport and Mental Health, and Cyber Security. I chose the Emergency and Unscheduled Care track, which led to teaming up with Keir (a software developer), Holly (a PhD researcher in medical statistics) and Chelsea (a UX designer from the GSA), or Team Unalome for short. An unalome is a Buddhist symbol representing the twists and turns that occur on the path to success, something we hoped would preserve our motivation on the journey we were about to embark on. 
+
+<br/><img src='/assets/img/team photo.jpeg'>
+
+## MIA
+We discussed many different ideas, but on the Friday morning we settled on creating a product to address non-adherence to medication. On average globally, this costs £15,000 per person per year, due to the expensive consequences of needing additional referrals or treatments if patients do not take their medications according to the regimen agreed with their healthcare provider. Over the course of the next three days, we created MIA: a chatbot-style module which could be integrated into existing applications for medication management. We created an initial knowledge base using information from the NHS website, and used natural language processing to allow the user to communicate effectively with MIA. 
+
+## Victory!
+Our team was fortunate enough to win the event, and we look forward to seeing where we can take MIA in the future. You can keep up to date via our [Twitter](https://twitter.com/Unalome_Ad). A special thanks go to my amazing teammates, our mentor Dr Michael Barry, the organisers and the other participants – I learned so much from you all! 
+
+Highlights of the event are [here](https://www.youtube.com/watch?v=NQLDAANBRHg).
