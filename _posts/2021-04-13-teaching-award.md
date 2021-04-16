@@ -1,5 +1,5 @@
 ---
-title: 'I have been nominated for an Edinburgh University teaching award!'
+title: 'Edinburgh University Teaching Awards!'
 date: 2021-04-13
 permalink: /posts/teaching_award
 tags: [EUSA,tutor,machine learning,teaching]
