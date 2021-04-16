@@ -1,7 +1,7 @@
 ---
 title: 'Interpretable and Explainable Deep Learning for Image Processing'
 date: 2020-05-12
-permalink: /posts/12/05/2020
+permalink: /posts/interpretability
 tags: [interpretability,explainability,trustworthy,medical imaging]
 image: blog_post2.jpg
 categories: blog
